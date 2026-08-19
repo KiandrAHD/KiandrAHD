@@ -44,16 +44,11 @@ Passionate about crafting seamless web applications, exploring artificial intell
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiandrAHD&show_icons=true&theme=tokyonight&hide_border=true" alt="Kiandra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiandrAHD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+[![Kiandra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KiandrAHD&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiandrAHD&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiandrAHD&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiandrAHD&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 📬 Connect with Me
 
