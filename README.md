@@ -28,13 +28,13 @@ I learn best by building real projects. I like taking an idea, turning it into a
 
 I'm currently:
 
-- Building and experimenting with web applications
-- Learning AI Engineering and Machine Learning
-- Exploring Computer Vision and LLM applications
-- Improving my backend, API, and database skills
-- Improving UI/UX and product design
-- Exploring Linux and cybersecurity
-- Looking for interesting projects and opportunities to grow
+- Building and experimenting with web applications.
+- Learning AI Engineering and Machine Learning.
+- Exploring Computer Vision and LLM applications.
+- Improving my backend, API, and database skills.
+- Improving UI/UX and product design.
+- Exploring Linux and cybersecurity.
+- Looking for interesting projects and opportunities to grow.
 
 > **I believe the best way to learn technology is to build, experiment, break things, fix them, and keep improving.**
 
